@@ -19,11 +19,11 @@ git clone https://github.com/your-username/GlyxOS.git
 cd GlyxOS
 ```
 
-Build the OS using Cargo:
+2. Build the OS using Cargo:
 ```bash
 cargo build
 ```
-👏 Contributing
+## 👏 Contributing
 We welcome contributions to improve GlyxOS! If you'd like to contribute, follow these steps:
 
  - Fork the repository and create a new branch for your feature or bug fix. 🍴🌿
@@ -36,10 +36,10 @@ We welcome contributions to improve GlyxOS! If you'd like to contribute, follow 
 
  - Open a pull request, describing the changes and improvements you've made. 🚀🔧
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. 📝
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 We would like to express our gratitude to the developers of the Rust programming language and the countless open-source projects that have inspired and contributed to GlyxOS. 🙌❤️
 
 Thank you for your interest in GlyxOS! We hope this project will be a valuable learning experience and a stepping stone for your OS development journey. If you have any questions or feedback, don't hesitate to open an issue or reach out to us. Happy coding! 😄🚀
