@@ -1,0 +1,33 @@
+#[allow(dead_code)]
+
+pub const BLACK: u8 = 0x0;
+pub const BLUE: u8 = 0x1;
+pub const GREEN: u8 = 0x2;
+pub const CYAN: u8 = 0x3;
+pub const RED: u8 = 0x4;
+pub const MAGENTA: u8 = 0x5;
+pub const BROWN: u8 = 0x6;
+pub const LIGHT_GRAY: u8 = 0x7;
+pub const DARK_GRAY: u8 = 0x8;
+pub const LIGHT_BLUE: u8 = 0x9;
+pub const LIGHT_GREEN: u8 = 0xA;
+pub const LIGHT_CYAN: u8 = 0xB;
+pub const LIGHT_RED: u8 = 0xC;
+pub const LIGHT_MAGENTA: u8 = 0xD;
+pub const YELLOW: u8 = 0xE;
+pub const WHITE: u8 = 0xF;
+pub const ORANGE: u8 = 0x10;
+pub const PINK: u8 = 0x11;
+pub const PURPLE: u8 = 0x12;
+pub const LIME_GREEN: u8 = 0x13;
+pub const SKY_BLUE: u8 = 0x14;
+pub const DARK_BLUE: u8 = 0x15;
+pub const DARK_GREEN: u8 = 0x16;
+pub const DARK_CYAN: u8 = 0x17;
+pub const DARK_RED: u8 = 0x18;
+pub const DARK_MAGENTA: u8 = 0x19;
+pub const GOLD: u8 = 0x1A;
+pub const PEACH: u8 = 0x1B;
+pub const LAVENDER: u8 = 0x1C;
+pub const TEAL: u8 = 0x1D;
+pub const SALMON: u8 = 0x1E;
